@@ -1,0 +1,20 @@
+@media screen and (max-width: 768px) {
+    .footer-icon {
+        text-align: center;
+    }
+    .about-box {
+        padding-top: 20px;
+    }
+    .pricing-box {
+        padding-top: 20px;
+    }
+    .amazing-writing-part1 {
+        padding: 0;
+    }
+    .Herbert-Simon-part {
+        padding: 200px 40px;
+    }
+    .email {
+        width: 50%;
+    }
+}

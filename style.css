@@ -1,0 +1,196 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+}
+
+nav {
+    background-color: #303030;
+}
+
+
+/* .............hero-part................. */
+
+.hero-part {
+    background: url(picture/hero-bg.png) no-repeat center;
+    background-size: cover;
+    padding: 390px 0px 50px;
+}
+
+
+/* ........................about-writing-part.................. */
+
+#about-part {
+    background: url(picture/bg-disign.png) no-repeat;
+    background-color: #e8631c;
+    color: white;
+}
+
+.about-writing-part p {
+    font-size: 25px;
+}
+
+.card {
+    background-color: #303030;
+}
+
+
+/* ................Pricing-part................. */
+
+.Pricing-part {
+    background: url(picture/bg-disign.png);
+    background-color: #303030;
+    text-align: center;
+    color: white;
+}
+
+.Pricing-wrt-part h2 {
+    font-size: 40px;
+}
+
+.Pricing-wrt-part p {
+    font-size: 25px;
+}
+
+.pricing-box .crd {
+    background-color: #e8631c;
+}
+
+.card-body h5 {
+    font-size: 30px;
+}
+
+.card-body p {
+    font-size: 20px;
+    padding: 10px 0px;
+}
+
+.card-body a {
+    font-size: 20px;
+}
+
+
+/* ....................AMAZIN-DANCE-TOUR.................. */
+
+.AMAZIN-DANCE-TOUR {
+    background-color: #e8631c;
+}
+
+.amazing-writing-part1 p {
+    font-size: 30px;
+    padding: 20px 0px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.image {
+    width: 111%;
+}
+
+.amazing-writing-part1 {
+    padding-left: 150px;
+    padding-right: 50px;
+}
+
+
+/* ............................Our-Statistics-part................ */
+
+.Our-Statistics-part {
+    background-color: #303030;
+}
+
+.Statistics-wrt1 {
+    padding: 100px 0px;
+}
+
+.Statistics-wrt1 p {
+    font-size: 25px;
+}
+
+
+/* .....................Herbert-Simon-part.................. */
+
+.Herbert-Simon-part {
+    background: url(picture/bg.png) no-repeat center;
+    padding: 290px 50px;
+}
+
+.Herbert-Simon-part p {
+    font-size: 40px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.Herbert-Simon-part h1 {
+    font-size: 60px;
+    padding: 25px 0px;
+}
+
+
+/* .........................SUBSCRIBE-part.................. */
+
+.SUBSCRIBE-part {
+    background-color: #e8631c;
+}
+
+.subscrib-wrt-part {
+    padding-top: 100px;
+}
+
+.subscrib-wrt-part p {
+    padding: 20px 0px;
+    font-size: 20px;
+}
+
+.submit {
+    padding-top: 10px;
+    padding-bottom: 100px;
+}
+
+.email {
+    padding: 6px 20px;
+    width: 25%;
+    border-radius: 5px;
+}
+
+
+/* .......................footer.................... */
+
+.footer-wrt1 h5 {
+    font-size: 30px;
+}
+
+.footer-wrt1 p {
+    font-size: 20px;
+    padding: 20px 0px;
+}
+
+.icn {
+    font-size: 30px;
+    padding: 0px 5px;
+}
+
+.ftr-wrt1 li {
+    list-style: none;
+    padding-top: 5px;
+}
+
+.ftr-wrt1 a {
+    text-decoration: none;
+    color: white
+}
+
+.ftr-wrt1 h5 {
+    padding-left: 30px;
+    font-size: 30px;
+}
+
+.footer {
+    padding: 100px 0px;
+}
